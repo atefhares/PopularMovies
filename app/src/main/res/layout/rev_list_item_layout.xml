@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/authortextView"
+        android:layout_marginBottom="-15dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="3dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Continue Reading"
+        android:id="@+id/cont_red"
+        android:padding="1dp"
+        android:paddingLeft="1dp"
+        android:paddingTop="1dp"
+        android:paddingRight="1dp"
+        android:paddingBottom="1dp"
+        android:background="#ed8703"
+        android:textColor="#ffffff"
+        android:textStyle="bold|italic"
+        android:layout_marginRight="3dp"
+        android:layout_gravity="right" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Content"
+        android:id="@+id/contenttextView"
+        android:layout_marginLeft="3dp"
+        android:layout_marginBottom="3dp"
+        android:padding="1.5dp"
+        android:paddingLeft="1.5dp"
+        android:paddingTop="1.5dp"
+        android:paddingRight="1.5dp"
+        android:paddingBottom="1.5dp"
+        android:textSize="15dp"
+        android:background="@drawable/outline"
+        android:layout_marginRight="3dp" />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_show_favorites"
+        android:title="Show Favorite Movies"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_show_Main"
+        android:title="Back to Home"
+        android:visible="false"
+        app:showAsAction="never" />
+</menu>

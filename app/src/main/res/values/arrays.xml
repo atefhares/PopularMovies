@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_sortBy_values">
+        <item>@string/pref_sortBy_value_sortDesc</item>
+        <!--<item>@string/pref_sortBy_value_sortAsc</item>-->
+        <!--<item>@string/pref_sortBy_value_voteAverageAsc</item>-->
+        <item>@string/pref_sortBy_value_voteAverageDesc</item>
+    </string-array>
+
+    <string-array name="pref_sortBy_labels">
+        <item>@string/pref_sortBy_label_sortDesc</item>
+        <!--<item>@string/pref_sortBy_label_sortAsc</item>-->
+        <!--<item>@string/pref_sortBy_label_voteAverageAsc</item>-->
+        <item>@string/pref_sortBy_label_voteAverageDesc</item>
+    </string-array>
+</resources>
