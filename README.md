@@ -9,8 +9,6 @@ Popular Movies App for the "Udacity - Developing Android Apps Course"
 # Contents
 
 - [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Database Schema](#database-schema)
 - [Features](#features)
 
 ## Getting Started
